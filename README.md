@@ -1,2 +1,5 @@
-# Dio-Desafio-Github-Primeiro-Reposit-rio
-Desafio de projeto Git/Github
+# Primeiro Desafio sobre Git/Github da DIO
+Repositório
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
